@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "JS",
+      "imageSrc": "skills/jjs.png"
+    },
+    {
+      "title": "Maven",
+      "imageSrc": "skills/Maven.png"
+    },
+    {
+      "title": "springboot",
+      "imageSrc": "skills/springboot.png"
+    },
+    {
+      "title": "c++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+        "title": "Bootstrap",
+      "imageSrc": "skills/boot-logo.png"
+    },
+    {
+        "title": "JAVA",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Spring",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "C",
+  "imageSrc": "skills/C_Logo.png"
+},
+{
+  "title": "Hibernate",
+"imageSrc": "skills/hibernate.png"
+}
+  ]

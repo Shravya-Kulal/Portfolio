@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Shopping Store",
+      "imageSrc": "projects/new.webp",
+      "description": "This is a project made to learn the latest languages by building an Web-Application.",
+      "skills": [ "CSS", "Bootstrap"],
+      "demo": "https://clothshopping-store.netlify.app",
+      "source": "https://github.com/Shravya-Kulal/ClothStoreProject"
+    },
+    {
+      "title": "Grocery Shop",
+      "imageSrc": "projects/project2.png",
+      "description": "Learn the latest languages by building an Web-Application.",
+      "skills": ["css","Bootstrap","Js"],
+      "demo": "https://666e92c2273aa9923103b3ed--groceryshopgroup.netlify.app/",
+      "source": "https://github.com/Shravya-Kulal/Grocery-Shop-Web_Application"
+    },
+    {
+        "title": "Register Form",
+        "imageSrc": "projects/projecct3.png",
+        "description": "This is a project made to learn  by building an Form with Database connectivity.",
+        "skills": ["Java", "Jsp", "SQL"],
+        "demo": "https://github.com/Shravya-Kulal/RegisterForm",
+        "source": "https://github.com/Shravya-Kulal/RegisterForm"
+    },
+    {
+      "title": "Weather App API",
+      "imageSrc": "projects/project2.png",
+      "description": "This is  Weather application leveraging a weather API. React-based frontend",
+      "skills": ["React.Js", "OpenWeatherAPI", "Hooks"],
+      "demo": "https://reactapiweatherapp.netlify.app/",
+      "source": "https://github.com/Shravya-Kulal/RegisterForm"
+  }   
+
+  ]
